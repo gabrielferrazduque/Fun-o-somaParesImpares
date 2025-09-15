@@ -1,4 +1,5 @@
-Função somaParesImpares #include <stdio.h>
+Função somaParesImpares  
+#include <stdio.h>
 #include <stdlib.h>
 // Função que calcula a soma dos números pares e ímpares de 0 até n
 void somaParesImpares(int n, int* par, int* impar) {
